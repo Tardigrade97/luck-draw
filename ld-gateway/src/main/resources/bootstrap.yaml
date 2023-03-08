@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ld-gateway
+#默认使用端口
+server:
+  port: 7210
