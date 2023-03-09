@@ -1,13 +1,13 @@
-package com.example.ldserver;
+package com.example.lduser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LdServerApplication {
+public class LdUserApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LdServerApplication.class, args);
+        SpringApplication.run(LdUserApplication.class, args);
     }
 
 }

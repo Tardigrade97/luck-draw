@@ -1,9 +1,9 @@
 spring:
   application:
-    name: ld-gateway
+    name: ld-lucky
 #默认使用端口
 server:
-  port: 7210
+  port: 7214
 
 
 # token
